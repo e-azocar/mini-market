@@ -4,14 +4,6 @@ import Product from '../models/Product'
 export const getProducts = async (req: Request, res: Response) => {
   const { search, sort, order, page, limit, available } = req.query
 
-  const query: any = {}
-  if (search) {
-    query.name = { $regex: search, $options: 'i' }
-  }
-  if (available !== undefined) {
-    query.isAvailable = available === 'true'
-  }
-
   const options: any = {
     sort: {},
     page: Number(page) || 1,
@@ -24,7 +16,13 @@ export const getProducts = async (req: Request, res: Response) => {
 
   try {
     const products = (
-      await Product.find(query)
+      await Product.find(
+        available === 'true'
+          ? { isAvailable: true }
+          : available === 'false'
+          ? { isAvailable: false }
+          : {}
+      )
         .sort(options.sort)
         .skip((options.page - 1) * options.limit)
         .limit(options.limit)
@@ -60,7 +58,9 @@ export const getTopCheapestAvailableProducts = async (
   const { n } = req.query
   try {
     const products = (
-      await Product.find({ isAvailable: true }).sort({ price: 1 }).limit(n ? Number(n) : 5)
+      await Product.find({ isAvailable: true })
+        .sort({ price: 1 })
+        .limit(n ? Number(n) : 5)
     ).map((product) => product.toJSON())
 
     res.json(products)
