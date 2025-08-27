@@ -27,7 +27,7 @@ export const getProductById = async (id: string): Promise<Product> => {
 export const getTopCheapestAvailableProducts = async (
   n: number = 3
 ): Promise<Product[]> => {
-  const res = await fetch(`${API_URL}/product/cheapest?available=true&n=${n}`)
+  const res = await fetch(`${API_URL}/product/cheapest?n=${n}`)
   if (!res.ok)
     throw new Error('Failed to fetch top cheapest available products')
   return res.json()
