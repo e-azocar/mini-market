@@ -27,7 +27,6 @@ const Products = () => {
         order,
         availBool
       )
-      console.log(availBool)
       setProducts(productsData)
     } catch (err) {
       setProducts([])
@@ -119,7 +118,7 @@ const Products = () => {
                   className="border border-gray-300 rounded p-2 ml-2 flex-1 sm:flex-none"
                 />
                 <button
-                  className="bg-[#101828] hover:bg-[#162138] text-white rounded p-2 cursor-pointer"
+                  className="bg-indigo-900 hover:bg-indigo-800 text-white rounded p-2 cursor-pointer"
                   onClick={onClickSearch}
                 >
                   Buscar
