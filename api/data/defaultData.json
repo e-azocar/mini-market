@@ -1,0 +1,1360 @@
+[
+  {
+    "name": "Essence Mascara Lash Princess",
+    "price": 9.99,
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Eyeshadow Palette with Mirror",
+    "price": 19.99,
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Powder Canister",
+    "price": 14.99,
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Red Lipstick",
+    "price": 12.99,
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Red Nail Polish",
+    "price": 8.99,
+    "category": "beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Calvin Klein CK One",
+    "price": 49.99,
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Chanel Coco Noir Eau De",
+    "price": 129.99,
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Dior J'adore",
+    "price": 89.99,
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Dolce Shine Eau de",
+    "price": 69.99,
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Gucci Bloom Eau de",
+    "price": 79.99,
+    "category": "fragrances",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Annibale Colombo Bed",
+    "price": 1899.99,
+    "category": "furniture",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Annibale Colombo Sofa",
+    "price": 2499.99,
+    "category": "furniture",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Bedside Table African Cherry",
+    "price": 299.99,
+    "category": "furniture",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Knoll Saarinen Executive Conference Chair",
+    "price": 499.99,
+    "category": "furniture",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Wooden Bathroom Sink With Mirror",
+    "price": 799.99,
+    "category": "furniture",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Apple",
+    "price": 1.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Beef Steak",
+    "price": 12.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Cat Food",
+    "price": 8.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Chicken Meat",
+    "price": 9.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Cooking Oil",
+    "price": 4.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Cucumber",
+    "price": 1.49,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Dog Food",
+    "price": 10.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Eggs",
+    "price": 2.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Fish Steak",
+    "price": 14.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Green Bell Pepper",
+    "price": 1.29,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Green Chili Pepper",
+    "price": 0.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Honey Jar",
+    "price": 6.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Ice Cream",
+    "price": 5.49,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Juice",
+    "price": 3.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Kiwi",
+    "price": 2.49,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Lemon",
+    "price": 0.79,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/lemon/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Milk",
+    "price": 3.49,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/milk/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Mulberry",
+    "price": 4.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/mulberry/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Nescafe Coffee",
+    "price": 7.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/nescafe-coffee/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Potatoes",
+    "price": 2.29,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/potatoes/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Protein Powder",
+    "price": 19.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/protein-powder/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Red Onions",
+    "price": 1.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/red-onions/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Rice",
+    "price": 5.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/rice/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Soft Drinks",
+    "price": 1.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Strawberry",
+    "price": 3.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/strawberry/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Tissue Paper Box",
+    "price": 2.49,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/tissue-paper-box/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Water",
+    "price": 0.99,
+    "category": "groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/water/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Decoration Swing",
+    "price": 59.99,
+    "category": "home-decoration",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Family Tree Photo Frame",
+    "price": 29.99,
+    "category": "home-decoration",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "House Showpiece Plant",
+    "price": 39.99,
+    "category": "home-decoration",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Plant Pot",
+    "price": 14.99,
+    "category": "home-decoration",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Table Lamp",
+    "price": 49.99,
+    "category": "home-decoration",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Bamboo Spatula",
+    "price": 7.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Black Aluminium Cup",
+    "price": 5.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Black Whisk",
+    "price": 9.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Boxed Blender",
+    "price": 39.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Carbon Steel Wok",
+    "price": 29.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Chopping Board",
+    "price": 12.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Citrus Squeezer Yellow",
+    "price": 8.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Egg Slicer",
+    "price": 6.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Electric Stove",
+    "price": 49.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Fine Mesh Strainer",
+    "price": 9.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Fork",
+    "price": 3.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fork/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Glass",
+    "price": 4.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/glass/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Grater Black",
+    "price": 10.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/grater-black/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Hand Blender",
+    "price": 34.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Ice Cube Tray",
+    "price": 5.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Kitchen Sieve",
+    "price": 7.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/kitchen-sieve/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Knife",
+    "price": 14.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/knife/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Lunch Box",
+    "price": 12.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Microwave Oven",
+    "price": 89.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Mug Tree Stand",
+    "price": 15.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/mug-tree-stand/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Pan",
+    "price": 24.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/pan/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Plate",
+    "price": 3.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/plate/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Red Tongs",
+    "price": 6.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/red-tongs/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Silver Pot With Glass Cap",
+    "price": 39.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/silver-pot-with-glass-cap/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Slotted Turner",
+    "price": 8.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/slotted-turner/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Spice Rack",
+    "price": 19.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Spoon",
+    "price": 4.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spoon/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Tray",
+    "price": 16.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Wooden Rolling Pin",
+    "price": 11.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/wooden-rolling-pin/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Yellow Peeler",
+    "price": 5.99,
+    "category": "kitchen-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/yellow-peeler/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Apple MacBook Pro 14 Inch Space Grey",
+    "price": 1999.99,
+    "category": "laptops",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Asus Zenbook Pro Dual Screen Laptop",
+    "price": 1799.99,
+    "category": "laptops",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Huawei Matebook X Pro",
+    "price": 1399.99,
+    "category": "laptops",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Lenovo Yoga 920",
+    "price": 1099.99,
+    "category": "laptops",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "New DELL XPS 13 9300 Laptop",
+    "price": 1499.99,
+    "category": "laptops",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Blue & Black Check Shirt",
+    "price": 29.99,
+    "category": "mens-shirts",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Gigabyte Aorus Men Tshirt",
+    "price": 24.99,
+    "category": "mens-shirts",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Man Plaid Shirt",
+    "price": 34.99,
+    "category": "mens-shirts",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Man Short Sleeve Shirt",
+    "price": 19.99,
+    "category": "mens-shirts",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Men Check Shirt",
+    "price": 27.99,
+    "category": "mens-shirts",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Nike Air Jordan 1 Red And Black",
+    "price": 149.99,
+    "category": "mens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Nike Baseball Cleats",
+    "price": 79.99,
+    "category": "mens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Puma Future Rider Trainers",
+    "price": 89.99,
+    "category": "mens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Sports Sneakers Off White & Red",
+    "price": 119.99,
+    "category": "mens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Sports Sneakers Off White Red",
+    "price": 109.99,
+    "category": "mens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Brown Leather Belt Watch",
+    "price": 89.99,
+    "category": "mens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Longines Master Collection",
+    "price": 1499.99,
+    "category": "mens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Rolex Cellini Date Black Dial",
+    "price": 8999.99,
+    "category": "mens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Rolex Cellini Moonphase",
+    "price": 12999.99,
+    "category": "mens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Rolex Datejust",
+    "price": 10999.99,
+    "category": "mens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-datejust/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Rolex Submariner Watch",
+    "price": 13999.99,
+    "category": "mens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Amazon Echo Plus",
+    "price": 99.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Apple Airpods",
+    "price": 129.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Apple AirPods Max Silver",
+    "price": 549.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Apple Airpower Wireless Charger",
+    "price": 79.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Apple HomePod Mini Cosmic Grey",
+    "price": 99.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Apple iPhone Charger",
+    "price": 19.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Apple MagSafe Battery Pack",
+    "price": 99.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Apple Watch Series 4 Gold",
+    "price": 349.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Beats Flex Wireless Earphones",
+    "price": 49.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "iPhone 12 Silicone Case with MagSafe Plum",
+    "price": 29.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Monopod",
+    "price": 19.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Selfie Lamp with iPhone",
+    "price": 14.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Selfie Stick Monopod",
+    "price": 12.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-stick-monopod/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "TV Studio Camera Pedestal",
+    "price": 499.99,
+    "category": "mobile-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/tv-studio-camera-pedestal/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Generic Motorcycle",
+    "price": 3999.99,
+    "category": "motorcycle",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Kawasaki Z800",
+    "price": 8999.99,
+    "category": "motorcycle",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "MotoGP CI.H1",
+    "price": 14999.99,
+    "category": "motorcycle",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Scooter Motorcycle",
+    "price": 2999.99,
+    "category": "motorcycle",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Sportbike Motorcycle",
+    "price": 7499.99,
+    "category": "motorcycle",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Attitude Super Leaves Hand Soap",
+    "price": 8.99,
+    "category": "skin-care",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Olay Ultra Moisture Shea Butter Body Wash",
+    "price": 12.99,
+    "category": "skin-care",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Vaseline Men Body and Face Lotion",
+    "price": 9.99,
+    "category": "skin-care",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "iPhone 5s",
+    "price": 199.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "iPhone 6",
+    "price": 299.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "iPhone 13 Pro",
+    "price": 1099.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "iPhone X",
+    "price": 899.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Oppo A57",
+    "price": 249.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Oppo F19 Pro Plus",
+    "price": 399.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19-pro-plus/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Oppo K1",
+    "price": 299.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Realme C35",
+    "price": 149.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/realme-c35/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Realme X",
+    "price": 299.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Realme XT",
+    "price": 349.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Samsung Galaxy S7",
+    "price": 299.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s7/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Samsung Galaxy S8",
+    "price": 499.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Samsung Galaxy S10",
+    "price": 699.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Vivo S1",
+    "price": 249.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/vivo-s1/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Vivo V9",
+    "price": 299.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/vivo-v9/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Vivo X21",
+    "price": 499.99,
+    "category": "smartphones",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "American Football",
+    "price": 19.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Baseball Ball",
+    "price": 8.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Baseball Glove",
+    "price": 24.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Basketball",
+    "price": 14.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Basketball Rim",
+    "price": 39.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Cricket Ball",
+    "price": 12.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Cricket Bat",
+    "price": 29.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Cricket Helmet",
+    "price": 44.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Cricket Wicket",
+    "price": 29.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Feather Shuttlecock",
+    "price": 5.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/feather-shuttlecock/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Football",
+    "price": 17.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/football/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Golf Ball",
+    "price": 9.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Iron Golf",
+    "price": 49.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Metal Baseball Bat",
+    "price": 29.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Tennis Ball",
+    "price": 6.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Tennis Racket",
+    "price": 49.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Volleyball",
+    "price": 11.99,
+    "category": "sports-accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/volleyball/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Black Sun Glasses",
+    "price": 29.99,
+    "category": "sunglasses",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Classic Sun Glasses",
+    "price": 24.99,
+    "category": "sunglasses",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Green and Black Glasses",
+    "price": 34.99,
+    "category": "sunglasses",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Party Glasses",
+    "price": 19.99,
+    "category": "sunglasses",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Sunglasses",
+    "price": 22.99,
+    "category": "sunglasses",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "iPad Mini 2021 Starlight",
+    "price": 499.99,
+    "category": "tablets",
+    "image": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Samsung Galaxy Tab S8 Plus Grey",
+    "price": 599.99,
+    "category": "tablets",
+    "image": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Samsung Galaxy Tab White",
+    "price": 349.99,
+    "category": "tablets",
+    "image": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Blue Frock",
+    "price": 29.99,
+    "category": "tops",
+    "image": "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Girl Summer Dress",
+    "price": 19.99,
+    "category": "tops",
+    "image": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Gray Dress",
+    "price": 34.99,
+    "category": "tops",
+    "image": "https://cdn.dummyjson.com/product-images/tops/gray-dress/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Short Frock",
+    "price": 24.99,
+    "category": "tops",
+    "image": "https://cdn.dummyjson.com/product-images/tops/short-frock/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Tartan Dress",
+    "price": 39.99,
+    "category": "tops",
+    "image": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "300 Touring",
+    "price": 28999.99,
+    "category": "vehicle",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Charger SXT RWD",
+    "price": 32999.99,
+    "category": "vehicle",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Dodge Hornet GT Plus",
+    "price": 24999.99,
+    "category": "vehicle",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Durango SXT RWD",
+    "price": 36999.99,
+    "category": "vehicle",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/durango-sxt-rwd/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Pacifica Touring",
+    "price": 31999.99,
+    "category": "vehicle",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/pacifica-touring/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Blue Women's Handbag",
+    "price": 49.99,
+    "category": "womens-bags",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Heshe Women's Leather Bag",
+    "price": 129.99,
+    "category": "womens-bags",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Prada Women Bag",
+    "price": 599.99,
+    "category": "womens-bags",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "White Faux Leather Backpack",
+    "price": 39.99,
+    "category": "womens-bags",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Women Handbag Black",
+    "price": 59.99,
+    "category": "womens-bags",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Black Women's Gown",
+    "price": 129.99,
+    "category": "womens-dresses",
+    "image": "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Corset Leather With Skirt",
+    "price": 89.99,
+    "category": "womens-dresses",
+    "image": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Corset With Black Skirt",
+    "price": 79.99,
+    "category": "womens-dresses",
+    "image": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Dress Pea",
+    "price": 49.99,
+    "category": "womens-dresses",
+    "image": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Marni Red & Black Suit",
+    "price": 179.99,
+    "category": "womens-dresses",
+    "image": "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Green Crystal Earring",
+    "price": 29.99,
+    "category": "womens-jewellery",
+    "image": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Green Oval Earring",
+    "price": 24.99,
+    "category": "womens-jewellery",
+    "image": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Tropical Earring",
+    "price": 19.99,
+    "category": "womens-jewellery",
+    "image": "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Black & Brown Slipper",
+    "price": 19.99,
+    "category": "womens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Calvin Klein Heel Shoes",
+    "price": 79.99,
+    "category": "womens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Golden Shoes Woman",
+    "price": 49.99,
+    "category": "womens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Pampi Shoes",
+    "price": 29.99,
+    "category": "womens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/womens-shoes/pampi-shoes/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Red Shoes",
+    "price": 34.99,
+    "category": "womens-shoes",
+    "image": "https://cdn.dummyjson.com/product-images/womens-shoes/red-shoes/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "IWC Ingenieur Automatic Steel",
+    "price": 4999.99,
+    "category": "womens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Rolex Cellini Moonphase",
+    "price": 15999.99,
+    "category": "womens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Rolex Datejust Women",
+    "price": 10999.99,
+    "category": "womens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp",
+    "isAvailable": false
+  },
+  {
+    "name": "Watch Gold for Women",
+    "price": 799.99,
+    "category": "womens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/1.webp",
+    "isAvailable": true
+  },
+  {
+    "name": "Women's Wrist Watch",
+    "price": 129.99,
+    "category": "womens-watches",
+    "image": "https://cdn.dummyjson.com/product-images/womens-watches/women's-wrist-watch/1.webp",
+    "isAvailable": true
+  }
+]

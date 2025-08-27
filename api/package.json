@@ -22,6 +22,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist",
-    "dev": "nodemon --exec ts-node-dev --transpile-only --ignore-watch node_modules src/"
+    "dev": "nodemon --exec ts-node-dev --transpile-only --ignore-watch node_modules src/",
+    "seed": "ts-node-dev seed.ts"
   }
 }
