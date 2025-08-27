@@ -10,19 +10,6 @@ const Navbar = () => {
       >
         Mini-Market
       </Link>
-
-      <ul className="flex space-x-4">
-        <li>
-          <Link href="/" className="text-gray-300 hover:text-gray-200">
-            Home
-          </Link>
-        </li>
-        <li>
-          <Link href="/products" className="text-gray-300 hover:text-gray-200">
-            Products
-          </Link>
-        </li>
-      </ul>
     </nav>
   )
 }

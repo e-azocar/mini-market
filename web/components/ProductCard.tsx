@@ -15,7 +15,7 @@ const ProductCard = ({
   const router = useRouter()
 
   const onClick = () => {
-    router.push(`/products/${id}`)
+    router.push(`/${id}`)
   }
 
   return (

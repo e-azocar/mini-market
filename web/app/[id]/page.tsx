@@ -7,10 +7,15 @@ import Link from 'next/link'
 const Product = ({ params }: { params: Promise<{ id: string }> }) => {
   const { id } = use(params)
   const [product, setProduct] = useState<Product | null>(null)
+  const [error, setError] = useState<string | null>(null)
 
   const fetchProduct = async () => {
-    const data = await getProductById(id)
-    setProduct(data)
+    try {
+      const data = await getProductById(id)
+      setProduct(data)
+    } catch (error) {
+      setError('Failed to fetch product')
+    }
   }
 
   useEffect(() => {
@@ -19,12 +24,19 @@ const Product = ({ params }: { params: Promise<{ id: string }> }) => {
 
   return (
     <div className="p-6 max-w-7xl mx-auto space-y-10 bg-white mt-6 rounded-2xl">
-      <Link href="/products" className="hover:underline">
+      <Link href="/" className="hover:underline">
         Volver a la lista de productos
       </Link>
       <h1 className="text-3xl font-bold mb-6">Detalle del Producto</h1>
 
-      {product ? (
+      {error ? (
+        <p className="text-red-500">
+          Producto no encontrado,{' '}
+          <Link href="/" className="hover:underline">
+            volver a la lista
+          </Link>
+        </p>
+      ) : product ? (
         <div className="grid md:grid-cols-3 gap-10">
           <div className="col-span-2">
             <img
@@ -46,7 +58,7 @@ const Product = ({ params }: { params: Promise<{ id: string }> }) => {
             >
               {product.isAvailable ? 'En stock' : 'Sin stock'}
             </span>
-            <button className='bg-indigo-900 hover:bg-indigo-800 cursor-pointer text-white px-4 py-2 rounded w-full mt-4'>
+            <button className="bg-indigo-900 hover:bg-indigo-800 cursor-pointer text-white px-4 py-2 rounded w-full mt-4">
               Añadir a favoritos
             </button>
           </div>

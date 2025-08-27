@@ -8,7 +8,6 @@ export const getProducts = async (
   order?: 'asc' | 'desc',
   available?: boolean
 ): Promise<Product[]> => {
-  console.log(available)
   const res = await fetch(
     `${API_URL}/product?page=${page}&limit=${limit}&sort=${sort}&order=${order}&available=${
       available === undefined ? '' : available
@@ -20,7 +19,7 @@ export const getProducts = async (
 
 export const getProductById = async (id: string): Promise<Product> => {
   const res = await fetch(`${API_URL}/product/${id}`)
-  if (!res.ok) throw new Error('Failed to fetch product')
+  if (res.status !== 200) throw new Error('Failed to fetch product')
   return res.json()
 }
 
